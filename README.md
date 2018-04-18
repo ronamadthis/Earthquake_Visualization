@@ -1,2 +1,3 @@
 # Earthquake_Visualization
 Plot earthquakes that occurred over the past 24 hours. Add a timeline and slide rule control to show the progress of earthquakes.
+USGS earthquake data for the past 24 hours was used for the purpose.Leaflet was used to plot earthquake data based on latitude and longitudes.The data markers reflect the magnitude of the earthquake in their size and color. Popups provide additional information when a marker is clicked. Tectonic plates are shown on the map to visualize seismic activity.The map also shows visualization of how mant earthquakes take place during the course of 24 hours.
